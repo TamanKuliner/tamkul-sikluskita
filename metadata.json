@@ -1,0 +1,6 @@
+{
+  "name": "SiklusKita - Intelligent Waste & Resource Infrastructure",
+  "description": "Platform cerdas infrastruktur alokasi sumber daya sampah & ekonomi sirkular DKI Jakarta oleh Fahira Shanin Nadifa & Tim (Greeneration Circle 2026), didukung AI analitik prediktif, auto-scaling, pemindai sampah AI, monitoring performa sistem real-time, E2EE, dan sinkronisasi lintas perangkat.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
